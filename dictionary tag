@@ -1,0 +1,52 @@
+
+HTML Tag Dictionary
+
+a: The a tag makes a hyperlink linking to another website.
+attributes: href
+e.g: <a href="link to a website">website</a>
+
+hl: The h1 tag is also knows an the HTML tag and is usually used for the title of a page or post and it is the first header visible on a page.
+attributes: none
+e.g: h1 <h1>
+
+DOCTYPE: selects the version of HTML, the HTML attribute means you want the most recent version
+attributes: html
+e.g: <!DOCTYPE>
+
+h2: simialr to h1 tag and represents a level 2 heading in an HTML document. HTML includes 6 levels of headings.
+attributes: none
+e.g: h1 <h2>
+
+html: marks the beggining and end of your html code
+attributes: none
+e.g: <html>
+
+head: things for your browser to think about when looking at your webpage
+attributes: none
+e.g:<title>First Website</title>
+
+body: contains all the content of the website
+attributes: none
+e.g:<body>hello</body>
+
+*img: defines an imagine in an HTML page, useful when you want to link pictures, diagrams, or illustrations to your web pages.
+attributions: src, =, ""
+e.g: <img scr="book.jpg/png>
+
+li: used for specifying a list item in ordered.
+attributions: none
+example: <li>hey</li>
+
+ol: defines an ordered list, use the <li> tag to define list items.
+attributions: none
+e.g: <li>hey<li>
+  <ol>
+
+p: used to identify blocks of paragraph text
+attributions: none
+e.g: <p>hello<p>
+
+ul: used to designate an unordered list. It is useful for creating bulleted list.
+attributions: none
+e.g: <li>hey<li>
+  <ol>
